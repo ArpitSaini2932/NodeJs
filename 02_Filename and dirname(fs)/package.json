@@ -1,0 +1,15 @@
+{
+  "name": "vishu",
+  "version": "1.0.0",
+  "description": "it's about module and filename ",
+  "main": "mian.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filename"
+  ],
+  "author": "vishu",
+  "license": "ISC"
+}
